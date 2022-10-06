@@ -8,10 +8,10 @@ The purpose of this project was to refactor the previous solution code, to see i
 
 Both codes produced the same results, showing 2017 was a much better year. By refactoring, and creating a ticker index, with the code Dim tickerIndex, it ran much faster. This allowed for all tickers to be run simutaneously. The differences in time are shown in the images below.
 
-[![image](https://user-images.githubusercontent.com/106006911/173867278-797aedc1-f222-45b9-920b-627b0b9ed0f9.png)](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/Original_2017.png)      
-[![image](https://user-images.githubusercontent.com/106006911/173867758-c77e4a53-b935-47f7-b4ce-c87e02d68749.png)](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/Original_2018.png)
-[![image](https://user-images.githubusercontent.com/106006911/173867999-e6edd4f0-f016-4924-bbad-a3c34226a705.png)](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
-[![image](https://user-images.githubusercontent.com/106006911/173868165-5dc1b482-5393-42e1-88ba-11e6bc5a1f55.png)](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+[![image](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/Original_2017.png)      
+[![image](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/Original_2018.png)
+[![image](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png?raw=true)
+[![image](https://github.com/eric-blankinshp/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 
 
